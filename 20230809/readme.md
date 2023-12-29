@@ -1,3 +1,5 @@
+Author: Chiao-Yin Teng
+
 Some Links
 
 1. 調用圖片路徑
