@@ -1,3 +1,5 @@
+Author: Chiao-Yin Teng
+
 Some Links
 
 1. YOLOv7 Training Details
